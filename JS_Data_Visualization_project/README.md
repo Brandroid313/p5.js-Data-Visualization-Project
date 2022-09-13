@@ -23,14 +23,3 @@ The main files are JS classes that are called inside the main sketch file. There
 - gallery.js
 ### Styling files
 - style.css
-
-## Main Screen
-(index.html) Here is where you can choose which visualization to view. Features a hover option to that highlights the button when the cursor is over it, and stays highlighted ( a slightly different color) when the button is pressed
-
-## Endagered Animals
-
-## Climate Change
-
-## WAffles Around the World
-
-## Game Habits Japan 2019
