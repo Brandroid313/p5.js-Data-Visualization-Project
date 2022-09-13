@@ -15,8 +15,17 @@ The visualizations used are:
 
 ## Endagered Animals
 
+<img width="674" alt="Screen Shot 2022-09-13 at 16 44 23" src="https://user-images.githubusercontent.com/82865312/189848989-253f7f01-0d25-4c02-9906-373149e33bec.png">
+
+
+
 ## Climate Change
+
+<img width="1154" alt="Screen Shot 2022-09-13 at 16 42 39" src="https://user-images.githubusercontent.com/82865312/189848791-01d54af3-67b5-409e-b80e-8a68210b5bde.png">
 
 ## WAffles Around the World
 
+<img width="792" alt="Screen Shot 2022-09-13 at 16 43 44" src="https://user-images.githubusercontent.com/82865312/189848931-f49e04ac-1a39-4b38-9769-6b052a6d52e4.png">
+
 ## Game Habits Japan 2019
+<img width="792" alt="Screen Shot 2022-09-13 at 16 44 00" src="https://user-images.githubusercontent.com/82865312/189849072-87ea5b37-3327-4b47-8085-4eebea5f8306.png">
