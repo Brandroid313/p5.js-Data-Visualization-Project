@@ -6,6 +6,11 @@ The visualizations used are:
 - Line Chart on climate change - Shows line chart with color coded background to show change in colors over time
 - Waffle Chart - Shows results from a survery as a waffle chart
 
+## Files
+- lib   This is the libraries used, namely p5.js
+- img   Images used in the visualizations
+- data  The data used in the visualizations
+
 # Screen shots of project
 
 ## Main Screen
