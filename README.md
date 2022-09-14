@@ -7,9 +7,9 @@ The visualizations used are:
 - **Waffle Chart** - Shows results from a survery as a waffle chart
 
 ## Files
-- **lib**   This is the libraries used, namely p5.js
-- **img**   Images used in the visualizations
-- **data**  The data used in the visualizations
+- **lib**  - This is the libraries used, namely p5.js
+- **img**  - Images used in the visualizations
+- **data** - The data used in the visualizations
 
 # Screen shots of project
 
