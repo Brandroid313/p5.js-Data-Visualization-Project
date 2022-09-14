@@ -1,15 +1,15 @@
 # Data Visualization with p5.js 
 This is an early project done during my first year using the Javascript library p5.js where I used 4 different techniques to different datasets. 
 The visualizations used are:
-- Pixelated Animatls - Data on endangered animals where the image has been pixelated based on how many exist in the wild
-- Donut Chart - A donut chart with the percetnages seperated by color with a hover feature that shows the numerical percetnage when hovered over
-- Line Chart on climate change - Shows line chart with color coded background to show change in colors over time
-- Waffle Chart - Shows results from a survery as a waffle chart
+- **Pixelated Animals** - Data on endangered animals where the image has been pixelated based on how many exist in the wild
+- **Donut Chart** - A donut chart with the percetnages seperated by color with a hover feature that shows the numerical percetnage when hovered over
+- **Line Chart on climate change** - Shows line chart with color coded background to show change in colors over time
+- **Waffle Chart** - Shows results from a survery as a waffle chart
 
 ## Files
-- lib   This is the libraries used, namely p5.js
-- img   Images used in the visualizations
-- data  The data used in the visualizations
+- **lib**   This is the libraries used, namely p5.js
+- **img**   Images used in the visualizations
+- **data**  The data used in the visualizations
 
 # Screen shots of project
 
